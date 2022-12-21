@@ -1,0 +1,35 @@
+# E7hern4u7 Cha11eng3
+*(repo is ofuscated to prevent cheaters)*
+
+## Cha11eng3 Completion Transactions
+
+1. Hello E7hern4u7 - [0x414e235e53529cd6ecfed2859015d92e9289871ff2b28f44c9f97d1449aaf920](https://mumbai.polygonscan.com/tx/0x414e235e53529cd6ecfed2859015d92e9289871ff2b28f44c9f97d1449aaf920)
+2. Fal1back - [0x08467d680fe57bcc1ddf3ec840cd7ca96aca1779958745baa94f62792a2b709d](https://mumbai.polygonscan.com/tx/0x08467d680fe57bcc1ddf3ec840cd7ca96aca1779958745baa94f62792a2b709d)
+3. Fal1out - [0x0a36fc3cad5e3b19abe22d9429b2b98cb08a3cfc48f5a255aba75043d0032d6a](https://mumbai.polygonscan.com/tx/0x0a36fc3cad5e3b19abe22d9429b2b98cb08a3cfc48f5a255aba75043d0032d6a)
+4. Coin F1ip - [0xb99e81b874cd25f8c3c6b372c99eb86a537c104ee95efddfeb6f5ca1dec58c9d](https://mumbai.polygonscan.com/tx/0xb99e81b874cd25f8c3c6b372c99eb86a537c104ee95efddfeb6f5ca1dec58c9d)
+5. T3lephone - [0x791c1aa03952fa9c49178f363b22179c109bfc3de03ee57bb719f8b20c51cdcf](https://mumbai.polygonscan.com/tx/0x791c1aa03952fa9c49178f363b22179c109bfc3de03ee57bb719f8b20c51cdcf)
+6. T0ken - [0x51457601e25da319e145bb3b46550cafcf25fa9dff863ffa8f79aa8512f4a9ad](https://mumbai.polygonscan.com/tx/0x51457601e25da319e145bb3b46550cafcf25fa9dff863ffa8f79aa8512f4a9ad)
+7. De1egation - [0x6fd4664127029b6a1ddf8875be4e0b52f95564728966f28df9468a54d44ffbe6](https://mumbai.polygonscan.com/tx/0x6fd4664127029b6a1ddf8875be4e0b52f95564728966f28df9468a54d44ffbe6)
+8. F0rce - [0x9d8b39634dcb5bb7423bc1516e9f6127b93f0c66bf86da82b825f7a2346632d1](https://mumbai.polygonscan.com/tx/0x9d8b39634dcb5bb7423bc1516e9f6127b93f0c66bf86da82b825f7a2346632d1)
+9. V4ult - [0x6d0dc9f1860bdecf6413f49e69d8ef4fa07d2cd67073d2f9740fda10e5a8a291](https://mumbai.polygonscan.com/tx/0x6d0dc9f1860bdecf6413f49e69d8ef4fa07d2cd67073d2f9740fda10e5a8a291)
+10. K1ng - [0x75ab330dfc02baf5154291f8d07ffbce716f36af377146f5b9a375878136fba3](https://mumbai.polygonscan.com/tx/0x75ab330dfc02baf5154291f8d07ffbce716f36af377146f5b9a375878136fba3)
+11. R3-3ntrancy - [0x8b3b2f72723329130f2042bda66c3452542e83a7beacdea40f8fe52ca507b164](https://mumbai.polygonscan.com/tx/0x8b3b2f72723329130f2042bda66c3452542e83a7beacdea40f8fe52ca507b164)
+12. El3vator - [0xef5b5a3bff34510d42076172e1f3a27605765618e075b473cd25cefd48a09964](https://mumbai.polygonscan.com/tx/0xef5b5a3bff34510d42076172e1f3a27605765618e075b473cd25cefd48a09964)
+13. Pr1vacy - [0xb3c7b37721375f7c628009e964b640fa73233f4ffbd28b4ece0a2888a41f4f3c](https://mumbai.polygonscan.com/tx/0xb3c7b37721375f7c628009e964b640fa73233f4ffbd28b4ece0a2888a41f4f3c)
+14. Gateke3per 0ne - [0x79168d6236fdaa80149f738b405ab6b320a9d0a0aa29ce0230bf0a7e8b69512f](https://mumbai.polygonscan.com/tx/0x79168d6236fdaa80149f738b405ab6b320a9d0a0aa29ce0230bf0a7e8b69512f)
+15. Gateke3per Tw0 - [0xb5ea5ce324c60f7ccd18d5dbbd9912c56200159eaa4a458cc37b2c6063405077](https://mumbai.polygonscan.com/tx/0xb5ea5ce324c60f7ccd18d5dbbd9912c56200159eaa4a458cc37b2c6063405077)
+16. N4ught Coin - [0xc059b27274de7f34cef1905d14c06ea0317adbcddbc686135dc7dd659e1f61b8](https://mumbai.polygonscan.com/tx/0xc059b27274de7f34cef1905d14c06ea0317adbcddbc686135dc7dd659e1f61b8)
+17. Pres3rvation - [0x5e8fa516740fc518cf7cf788457b1709e52849715000e804d016fb0e1a41920f](https://mumbai.polygonscan.com/tx/0x5e8fa516740fc518cf7cf788457b1709e52849715000e804d016fb0e1a41920f)
+18. Recov3ry - [0x4a7c30e6652c90870f059b2933f185a0ed7fcc9b4e7c43e6924f4a6b3a932d9f](https://mumbai.polygonscan.com/tx/0x4a7c30e6652c90870f059b2933f185a0ed7fcc9b4e7c43e6924f4a6b3a932d9f)
+19. Mag1cNumber - [0x4e7932f736d58500496ed5f9f98a9580db8dbd7cda1d66698999cf15aa34269d](https://mumbai.polygonscan.com/tx/0x4e7932f736d58500496ed5f9f98a9580db8dbd7cda1d66698999cf15aa34269d)
+20. Al1en C0dex - [0x544b500bfa3a44452e7ffc904a3cf3e6c07f2df0710cfdfceee425144da52edf](https://mumbai.polygonscan.com/tx/0x544b500bfa3a44452e7ffc904a3cf3e6c07f2df0710cfdfceee425144da52edf)
+21. D3nial - [0xd6190ea4f1a4530b73eee76b29108c8633b2e39804105a0b162f26049664a0c2](https://mumbai.polygonscan.com/tx/0xd6190ea4f1a4530b73eee76b29108c8633b2e39804105a0b162f26049664a0c2)
+22. Sh0p - [0x2b1770f9376b56f8f136e39d5374ada882c60bc5005f60c9981e3305de2a5f3b](https://mumbai.polygonscan.com/tx/0x2b1770f9376b56f8f136e39d5374ada882c60bc5005f60c9981e3305de2a5f3b)
+23. D3x - [0xdad21f6f714da1ac294e50c258af147ffabc729ffad07de63840f1d625510aeb](https://mumbai.polygonscan.com/tx/0xdad21f6f714da1ac294e50c258af147ffabc729ffad07de63840f1d625510aeb)
+24. D3x Tw0 - [0xe5d2a10bcd4866ce367c333034a4d261c60c741662082e478c2e87ce48511e51](https://mumbai.polygonscan.com/tx/0xe5d2a10bcd4866ce367c333034a4d261c60c741662082e478c2e87ce48511e51)
+25. Puzz1e Wal1et - [0xd3e3c0d3b2f659899fe160af32636ee3da5ee5247f01b79ac265899f08990f85](https://mumbai.polygonscan.com/tx/0xd3e3c0d3b2f659899fe160af32636ee3da5ee5247f01b79ac265899f08990f85)
+26. Motorb1ke - [0xa118df4dcaf6658c2b185a3140e94b3d46b0d423b27cf1e23df3d5cb3592a21b](https://mumbai.polygonscan.com/tx/0xa118df4dcaf6658c2b185a3140e94b3d46b0d423b27cf1e23df3d5cb3592a21b)
+27. Doub1eEntryPoint - [0xfdf6548b2884f1b5e7d636f9aaaf2b6b1d68de965d39ef3b342f157880f70e1a](https://mumbai.polygonscan.com/tx/0xfdf6548b2884f1b5e7d636f9aaaf2b6b1d68de965d39ef3b342f157880f70e1a)
+28. Go0d Samar1tan - [0x6628fe982a07ae27c51ee73e5bf41fc0326a53d45e61d4a3afce5a6a6dbccce8](https://mumbai.polygonscan.com/tx/0x6628fe982a07ae27c51ee73e5bf41fc0326a53d45e61d4a3afce5a6a6dbccce8)
+
+Solutions are zipped to prevent search. Password is 'E7hern4u7 Cha11eng3'
